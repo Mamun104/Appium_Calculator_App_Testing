@@ -1,0 +1,10 @@
+<suite thread-count="1" verbose="1" name="E-commerce portal automation">
+
+    <test name="Calculator app automation">
+        <classes>
+            <class name="TestCase"/>
+        </classes>
+    </test>
+
+</suite>
+
